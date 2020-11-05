@@ -1,0 +1,15 @@
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\bin\Debug\netcoreapp3.1\WinFormsAppStructure.exe
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\bin\Debug\netcoreapp3.1\WinFormsAppStructure.deps.json
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\bin\Debug\netcoreapp3.1\WinFormsAppStructure.runtimeconfig.json
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\bin\Debug\netcoreapp3.1\WinFormsAppStructure.runtimeconfig.dev.json
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\bin\Debug\netcoreapp3.1\WinFormsAppStructure.dll
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\bin\Debug\netcoreapp3.1\WinFormsAppStructure.pdb
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.csprojAssemblyReference.cache
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.AssemblyInfoInputs.cache
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.AssemblyInfo.cs
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.csproj.CoreCompileInputs.cache
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.dll
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.pdb
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.genruntimeconfig.cache
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.Form1.resources
+C:\Users\rich1\RiderProjects\WinFormsAppStructure\WinFormsAppStructure\obj\Debug\netcoreapp3.1\WinFormsAppStructure.csproj.GenerateResource.cache
